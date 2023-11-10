@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43a86e53.css",
+    "main.js": "/static/js/main.68cf90cc.js",
+    "static/js/787.32bdc811.chunk.js": "/static/js/787.32bdc811.chunk.js",
+    "static/media/Surf.jpg": "/static/media/Surf.3b697fb140dbe204579b.jpg",
+    "static/media/04-big.jpg": "/static/media/04-big.9dc8caf822c4a4116af4.jpg",
+    "static/media/03-big.jpg": "/static/media/03-big.42d4e6c6843189e73fd2.jpg",
+    "static/media/Productivity.png": "/static/media/Productivity.d163206063e2390f70f2.png",
+    "static/media/Residential.jpg": "/static/media/Residential.8b3f09e2d7e7467063f3.jpg",
+    "static/media/04.jpg": "/static/media/04.da38cca11cede6d4ef43.jpg",
+    "static/media/goGames.jpg": "/static/media/goGames.28f6e8863e844c375e88.jpg",
+    "static/media/03.jpg": "/static/media/03.a1f0cefe3665b6313065.jpg",
+    "static/media/header-bg.png": "/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/sun.svg": "/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/vk.svg": "/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/twitter.svg": "/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "static/media/linkedIn.svg": "/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/index.html",
+    "main.43a86e53.css.map": "/static/css/main.43a86e53.css.map",
+    "main.68cf90cc.js.map": "/static/js/main.68cf90cc.js.map",
+    "787.32bdc811.chunk.js.map": "/static/js/787.32bdc811.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43a86e53.css",
+    "static/js/main.68cf90cc.js"
+  ]
+}
